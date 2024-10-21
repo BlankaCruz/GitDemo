@@ -8,7 +8,11 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="MyFrameworkTesting" />
+<<<<<<< HEAD
         <module name="GitStuff" />
+=======
+        <module name="GitDemo" />
+>>>>>>> 693f8f5b91b9e7b59a0786d21b2fc1fa83861db5
       </profile>
     </annotationProcessing>
   </component>

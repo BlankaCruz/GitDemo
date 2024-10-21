@@ -67,7 +67,7 @@ import tmrs.pageobjects.*;
         }
         // Verify that "IPHONE 13 PRO" is on the OrderPage
 
-        @Test(dependsOnMethods = "submitOrder")
+        @Test(dependsOnMethods = "submitOrder2")
         public void orderHistoryTest() {
             String productName = "IPHONE 13 PRO";
 
